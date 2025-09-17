@@ -5,7 +5,7 @@ I work best where structured thinking meets real data, improving tools, building
 🎓 I’m a recent MSc graduate in Bioinformatics with a background in Computer Science. Over the past year, I’ve gained experience through 3 industrly roles:
 - **ML Intern** → Built a Python classification pipeline with text mining + AutoML, ensuring reproducibility through modular workflow design.  
 - **Student Assistant** → Optimized biological data management by restructuring cloud resources into a queryable SQL system, accelerating retrieval.  
-- **MSc Thesis** → Integrated ML into an antibody design pipeline, benchmarking docking vs. deep learning approaches to improve predictions.  
+- **MSc Thesis** → Integrated machine learning approaches into an antibody design workflow, benchmarking predictive models and optimizing performance. Focused on data-driven evaluation, reproducibility, and practical application in computational biology. 
 
 🛠️ Technical projects include:
 - **[Epistasis Pipeline (R + targets)](https://github.com/ElNikolaidou/epistasis_sorghum_project)** → Reproducible workflow for SNP–SNP interaction modeling.  
