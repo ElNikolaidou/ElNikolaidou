@@ -18,4 +18,4 @@ Whether it’s designing ML workflows, analyzing complex biological datasets, or
 
 Check out one of my projects here: [Epistasis Pipeline (R + targets)](https://github.com/ElNikolaidou/epistasis_sorghum_project)
 
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/eleninikolaidou)
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/eleninikolaidou)
