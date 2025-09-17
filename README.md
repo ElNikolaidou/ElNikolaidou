@@ -15,6 +15,7 @@ Technically, I’ve worked with Python, R, SQL, AWS, and HPC environments, apply
 
 Whether it’s designing ML workflows, analyzing complex biological datasets, or creating tools that help others work more effectively, I enjoy working at the intersection of data, code, and real-world applications.
 
-🔗 Check out one of my projects here: [Epistasis Pipeline (R + targets)](https://github.com/YOUR_USERNAME/YOUR_REPO)
 
-📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN/)
+Check out one of my projects here: [Epistasis Pipeline (R + targets)](https://github.com/ElNikolaidou/epistasis_sorghum_project)
+
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/eleninikolaidou)
