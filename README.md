@@ -1,21 +1,17 @@
-## Hi, I'm Eleni 👋
+Hi, I'm Eleni 👋
 
-I work best where structured thinking meets real data—whether that means improving existing tools, building something new, or finding the right approach for a messy problem.
+I work best where structured thinking meets real data, improving tools, building new solutions, or bringing order to messy problems.
 
-I'm a recent MSc graduate in Bioinformatics with a background in Computer Science, and my interests span data science, machine learning, and applied bioinformatics. Over the past year, I’ve contributed to three hands-on industry roles:  
-• As a machine learning intern, I built automated classification pipelines using AutoML tools and LLMs  
-• As a student assistant, I supported protein annotation workflows and bioinformatics pipelines  
-• For my thesis, I explored how ML techniques could improve antibody–antigen interface modeling
+🎓 I’m a recent MSc graduate in Bioinformatics with a background in Computer Science. Over the past year, I’ve gained experience through:
+- **ML Intern** → Built a Python classification pipeline with text mining + AutoML, ensuring reproducibility through modular workflow design.  
+- **Student Assistant** → Optimized biological data management by restructuring cloud resources into a queryable SQL system, accelerating retrieval.  
+- **MSc Thesis** → Integrated ML into an antibody design pipeline, benchmarking docking vs. deep learning approaches to improve predictions.  
 
-In parallel, I completed two technical research projects:  
-• Built an R pipeline for SNP interaction modeling using linear mixed models and permutation testing  
-• Developed a workflow in Python for ancestral allele inference and DFE modeling from sequence alignments and VCF data
+🛠️ Technical projects include:
+- **[Epistasis Pipeline (R + targets)](https://github.com/ElNikolaidou/epistasis_sorghum_project)** → Reproducible workflow for SNP–SNP interaction modeling.  
+- **Evolutionary Analysis Workflow** → Python-based ancestral allele inference and fitness effect modeling.  
 
-Technically, I’ve worked with Python, R, SQL, AWS, and HPC environments, applying libraries and tools for statistical modeling, automation, and large-scale data analysis. I value clean code, reproducible workflows, and building things that are both useful and understandable.
+I enjoy working at the intersection of data, code, and real-world biology, always aiming for clarity in logic, reproducibility in workflows, and impact in results.
 
-Whether it’s designing ML workflows, analyzing complex biological datasets, or creating tools that help others work more effectively, I enjoy working at the intersection of data, code, and real-world applications.
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/eleninikolaidou)
 
-
-Check out one of my projects here: [Epistasis Pipeline (R + targets)](https://github.com/ElNikolaidou/epistasis_sorghum_project)
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/eleninikolaidou)
