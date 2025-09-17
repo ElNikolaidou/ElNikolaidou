@@ -11,7 +11,7 @@ I work best where structured thinking meets real data, improving tools, building
 - **[Epistasis Pipeline (R + targets)](https://github.com/ElNikolaidou/epistasis_sorghum_project)** → Reproducible workflow for SNP–SNP interaction modeling.  
 - **Evolutionary Analysis Workflow** → Python-based ancestral allele inference and fitness effect modeling.  
 
-I enjoy working at the intersection of data, code, and real-world biology, always aiming for clarity in logic, reproducibility in workflows, and impact in results.
+I enjoy building solutions that make biological data more accessible and reproducible, with results that others can reuse and build upon.
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/eleninikolaidou)
 
