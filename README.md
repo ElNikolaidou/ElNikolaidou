@@ -8,7 +8,7 @@ I work best where structured thinking meets real data, improving tools, building
 - **MSc Thesis** → Integrated machine learning approaches into an antibody design workflow, benchmarking predictive models and optimizing performance. Focused on data-driven evaluation, reproducibility, and practical application in computational biology. 
 
 🛠️ Technical projects include:
-- **[Epistasis Pipeline (R + targets)](https://github.com/ElNikolaidou/epistasis_sorghum_project)** → Reproducible workflow for SNP–SNP interaction modeling.  
+- **[Epistasis Pipeline (R)](https://github.com/ElNikolaidou/epistasis_sorghum_project)** → Reproducible workflow for SNP–SNP interaction modeling.  
 - **Evolutionary Analysis Workflow** → Python-based ancestral allele inference and fitness effect modeling.
 
 📚 Published code
